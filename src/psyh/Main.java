@@ -21,7 +21,7 @@ a + b, a - b, a * b, a / b
 public class Main {
 
     public static void main(String[] args) throws Exception {
-        System.out.println("It is a test  command line application Calculator, \n" +
+        System.out.println("It is a test command line application Calculator, \n" +
                 "that can solve 4 math functions, like addition '+', subtraction '-', multiplying '*' and dividing '/' with remainder. \n" +
                 "Input the data in format a + b, a - b, a * b or a / b (Attention! Between symbols must be spacebar.) and press Enter.\n" +
                 "Where a and b must be an integer in arabic or roman style.\n" +
